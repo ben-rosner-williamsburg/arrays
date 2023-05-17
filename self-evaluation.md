@@ -1,0 +1,3 @@
+1. I feel confident with the content on Arrays so far. I have a firm grasp on index positioning, basic methods that can be performed on an array, and how to access values at a certain position in an array.
+2. I would like to learn some additional array methods by reading more documentation before moving on to the next lesson.
+3. Is there a way to search through an array for a specific value similar to the .includes method in strings?
